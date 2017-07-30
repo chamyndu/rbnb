@@ -13,3 +13,7 @@
 @import "layouts/index";
 @import "components/index";
 @import "pages/index";
+
+#turn_270 {
+  transform:rotate(270deg);
+}
